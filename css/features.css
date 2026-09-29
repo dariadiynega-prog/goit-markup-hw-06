@@ -1,0 +1,33 @@
+.features {
+}
+.features-icon-wrapper {
+  width: 264px;
+  height: 112px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #f4f4fd;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+
+  margin-bottom: 8px;
+}
+.features-list {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+.features-list-item {
+  width: 264px;
+}
+.features-subtitle {
+  margin-bottom: 8px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+.features-desc {
+}
