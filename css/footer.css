@@ -173,6 +173,11 @@
   .footer-info {
     width: 100%;
     margin-right: 0;
+    text-align: center;
+  }
+
+  .description-text {
+    text-align: left;
   }
 
   .footer-logo {
@@ -190,6 +195,9 @@
   .footer-subscribe {
     width: 100%;
     margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .footer-subscribe-text {
