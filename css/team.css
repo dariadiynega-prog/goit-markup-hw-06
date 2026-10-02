@@ -45,7 +45,7 @@
     justify-content: center;
     flex-direction: row;
     column-gap: 24px;
-    row-gap: 72px;
+    row-gap: 64px;
   }
 
   .team-list-item {
